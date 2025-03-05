@@ -39,3 +39,4 @@ For anyone who is interested in contributing to **Skyfall Stealer**, please make
 
 This github repository is made for educational purposes only. The developers are not responsible for any misuse of this software. **Do not use this software for illegal purposes.**
 
+
